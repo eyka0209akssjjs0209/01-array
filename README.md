@@ -1,1 +1,1 @@
-# tugas
+# tugas LATIHAN 01. Dimana dalam latihan tersebut kita belajar tentang array sebelum lanjut ke pelajaran berikutnya tentang rekursif. Di latihan ini dibuat array dalam bentuk satu dimensi, dua dimensi, dan tiga dimensi. serta menampilkan nilai yang adda di array,  mencari nilai terkecil, terbesar, dan rata-rata. 
