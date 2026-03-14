@@ -7,3 +7,8 @@
 <strong>ScreenShot</strong> <br>
 <img src="https://imgur.com/a/opJ4bJv">
 <img src="https://imgur.com/NKs6tCl">
+link nya aja : <li>https://imgur.com/a/opJ4bJv</li>
+<br>
+<li>https://imgur.com/NKs6tCl</li>
+
+
