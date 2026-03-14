@@ -5,5 +5,5 @@
 <strong>Refleksi pembelajaran</strong>: Saya harus lebih banyak belajar lagi. Beberapa code saya belum paham dan hanya mengikuti AI, beberapa yang lain sudah saya pahami dan saya tertarik hingga saya habiskan jam saya untuk melihat bagaimana kode tersbut berjalan.
 <br>
 <strong>ScreenShot</strong> <br>
-<img src="https://drive.google.com/file/d/1rkny4wrZwNoVlqzpcDfjhl7BJIv7ZnKo/view?usp=drive_link">
-<img src="https://drive.google.com/file/d/12YK94kOmd32ghS0z7F9tcDXH9n4Ls_Qu/view?usp=drive_link">
+<img src="https://imgur.com/a/opJ4bJv">
+<img src="https://imgur.com/NKs6tCl">
